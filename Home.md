@@ -3,6 +3,6 @@ title: Home
 nav_order: 1
 ---
 
-## Welcome to the 3d printed Human Robot Interface Website
+## Welcome to the 3D Printed Human Robot Interface Website
 
 ### Projects
