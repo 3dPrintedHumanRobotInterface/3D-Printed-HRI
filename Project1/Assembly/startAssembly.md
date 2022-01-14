@@ -1,8 +1,7 @@
 ---
-title: Start
-parent: Assembly
+title: Assembly
 has_children: yes
-nav_order: 1
+nav_order: 2
 ---
 
 # Assembly of a human robot interface for upper limb rehabilitation 
