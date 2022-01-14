@@ -1,6 +1,6 @@
 ---
 title: Introduction
-parent: startAssembly
+parent: Assembly
 has_children: false
 nav_order: 1
 ---
