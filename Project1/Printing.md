@@ -5,7 +5,7 @@ has_children: false
 nav_order: 1
 ---
 
-#Printing instruction for a human robot interface for upper limb rehabilitation 
+# Printing instruction for a human robot interface for upper limb rehabilitation 
 
 ## Overview
 The following  instruction consists of the print settings for a 3D-printed connection between 
