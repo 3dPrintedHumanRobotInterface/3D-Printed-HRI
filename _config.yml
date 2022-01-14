@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+title: Test
+description: Test
+baseurl: "/Test" # the subpath of your site, e.g. /blog
+url: "https://3dprintedhumanrobotinterface.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
