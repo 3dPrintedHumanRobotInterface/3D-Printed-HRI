@@ -1,7 +1,7 @@
 ---
 title: Assembly
 parent: Project1
-has_children: false
+has_children: true
 nav_order: 1
 ---
 
